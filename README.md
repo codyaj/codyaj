@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Cody
 
-<!--
-**codyaj/codyaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineering student interested in embedded systems, cybersecurity, and general development.  
+Feel free to reach out, I'm open to collaborating on projects or sharing ideas.
 
-Here are some ideas to get you started:
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat&logo=kicad&logoColor=white)
+![FreeCAD](https://img.shields.io/badge/FreeCAD-005CAD?style=flat&logo=freecad&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+
+- [ReaperBoard](https://github.com/codyaj/ReaperBoard): Wireless pentesting toolkit with custom firmware and hardware.
+- [HomeSecurityCore](https://github.com/codyaj/HomeSecurityCore): Modular, scalable, and cyber-secure home security system.
+- [fake-store](https://github.com/codyaj/fake-store): A sample Angular frontend store app.
+- Discord-style Chat App (private): Real-time messaging using Angular, Socket.io, and Peer.js.
+
+### Building
+
+- Finalizing **ReaperBoard-Lite** hardware and designing the 3D printed case
