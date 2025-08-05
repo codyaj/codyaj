@@ -13,7 +13,7 @@ Feel free to reach out, I'm open to collaborating on projects or sharing ideas.
 
 - [ReaperBoard](https://github.com/codyaj/ReaperBoard): Wireless pentesting toolkit with custom firmware and hardware.
 - [HomeSecurityCore](https://github.com/codyaj/HomeSecurityCore): Modular, scalable, and cyber-secure home security system.
-- [fake-store](https://github.com/codyaj/fake-store): A sample Angular frontend store app.
+- [fake-store](https://github.com/codyaj/fake-store): A sample React Native fake store app.
 - Discord-style Chat App (private): Real-time messaging using Angular, Socket.io, and Peer.js.
 
 ### Building
