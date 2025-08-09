@@ -18,4 +18,6 @@ Feel free to reach out, I'm open to collaborating on projects or sharing ideas.
 
 ### Building
 
-- Finalizing **ReaperBoard-Lite** hardware and designing the 3D printed case
+- Finalizing **ReaperBoard-Lite** PCB and designing the 3D printed case
+- Starting **ReaperBoard-Full** intial development
+- Doing Uni assignments :(
