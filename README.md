@@ -6,7 +6,6 @@ I'm a Software Engineering (Honours) student with a specialisation in embedded s
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Assembly](https://img.shields.io/badge/ASM-000000?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Zephyr RTOS](https://img.shields.io/badge/Zephyr_RTOS-2C2E76?style=for-the-badge)
 ![Side-Channel Analysis](https://img.shields.io/badge/Side--Channel_Analysis-990000?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![Fault Injection](https://img.shields.io/badge/Fault_Injection-B00000?style=for-the-badge)
